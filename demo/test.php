@@ -5,5 +5,5 @@ echo "hola";
 echo "andry";
 echo "YO";
 phpinfo();
-echo "oso";
+
  ?>
