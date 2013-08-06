@@ -1,5 +1,9 @@
 <?php 
 phpinfo();
 echo "hector";
-printf("hola");
-?>
+echo "hola";
+echo "andry";
+echo "YO";
+phpinfo();
+
+ ?>
